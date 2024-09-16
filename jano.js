@@ -169,7 +169,7 @@ jano13.on("ready", () => {
 });
 ///////////////////
 jano14.on("ready", () => {
-  var join = jano14.channels.get(""); /// id voice
+  var join = jano14.channels.get("5"); /// id voice
   if (join) join.join();
 });
 ///////////////////
