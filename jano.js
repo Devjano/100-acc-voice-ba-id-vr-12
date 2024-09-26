@@ -1979,7 +1979,7 @@ jano69.login("");
 jano70.login("");
 jano71.login("");
 jano72.login("");
-jano73.login("");
+jano73.login("https://github.com/Devjano/100-account-voice-ba-id.git");
 jano74.login("");
 jano75.login("");
 jano76.login("");
